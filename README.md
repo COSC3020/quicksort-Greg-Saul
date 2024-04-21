@@ -14,3 +14,10 @@ recursive call considers.
 Analyse the time complexity of your implementation and give a $\Theta$ bound for
 its worst-case runtime. Add your answer, including your reasoning, to this
 markdown file.
+
+
+
+### References used
+https://www.geeksforgeeks.org/iterative-quick-sort/
+
+Class slides pg. 27
