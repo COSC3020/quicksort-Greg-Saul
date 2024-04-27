@@ -22,4 +22,6 @@ During the worst case in quicksort, the complexity would be $\theta(n^2)$ this h
 ### References used
 https://www.geeksforgeeks.org/iterative-quick-sort/
 
+https://www.w3schools.com/js/js_array_methods.asp
+
 Class slides pg. 27
